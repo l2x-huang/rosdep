@@ -1,4 +1,4 @@
 Pangolin:
-  all:
+  ubuntu:
     vcpkg:
       packages: [Pangolin]
