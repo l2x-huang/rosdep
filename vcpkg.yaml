@@ -1,0 +1,4 @@
+Pangolin:
+  all:
+    vcpkg:
+      packages: [Pangolin]
